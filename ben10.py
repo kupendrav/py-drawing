@@ -6,3 +6,4 @@ t.penup()
 
 t.pendown()
 obj.draw()
+ /*ths is a message*/
